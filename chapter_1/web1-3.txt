@@ -1,0 +1,8 @@
+1.3 Web Page Example
+
+The website address value is known as a URL, which stands for Uniform Resource Locator.
+The http refers to the hypertext transfer protocol, where a protocol is a set of rules and formats 
+for exchanging messages between computers.
+
+After http comes a delimiter, ://, and then the 
+name of the web server computer that stores the web page. For this example, the web server computer is teach.
