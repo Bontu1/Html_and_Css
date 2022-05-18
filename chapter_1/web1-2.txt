@@ -1,0 +1,15 @@
+1.2 Creating a Website
+A website is a collection of related web pages that are normally stored on a single web server computer. A web server is a computer system that enables users to access web pages stored on the web 
+server’s computer.
+To create a website, you’ll need these things: (1) a text editor, (2) an upload/publishing tool, 
+(3) a web hosting service, and (4) a browser.
+
+Text Editors
+There are many different text editors, with varying degrees of functionality. 
+Web Page Uploads
+After you enter your web page text on your local computer with your favorite IDE, you’ll probably 
+want to publish it. Publishing means that you upload your web page to a web server computer so 
+other users can access it on the Web. 
+
+Browsers
+A browser is a piece of software that enables a user to retrieve and view a web page.
