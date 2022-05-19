@@ -1,4 +1,4 @@
-                                   1.4 HTML Tags 
+ ✔ 1.4 HTML Tags 
 ➨ The use of tags is the key characteristic of a markup language. Why is it called “markup”? 
 ➨ A markup language “marks up” a document by surrounding parts of its content with tags.
 ➨ HTML is a language that supports markup tags for formatting and the ability to jump to other web pages.
