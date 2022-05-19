@@ -1,3 +1,5 @@
+1.1 Introduction
+
 # Web, is short for 'World Wide Web.' Most people say “Web” instead of “World Wide Web,” and we’ll follow that convention. The Web is a collection 
 of documents, called web pages, that are shared (for the most part) by computer users throughout 
 the world.
