@@ -1,4 +1,0 @@
-                    1.4 HTML Tags
-
-Tag is surrounded by angled brackets, and the end tag starts with “</”.
-The first entity inside a tag is the tag’s type.
