@@ -1,0 +1,22 @@
+                                   1.4 HTML Tags 
+➨ The use of tags is the key characteristic of a markup language. Why is it called “markup”? 
+➨ A markup language “marks up” a document by surrounding parts of its content with tags.
+➨ HTML is a language that supports markup tags for formatting and the ability to jump to other web pages.
+▻ Each tag is surrounded by angled brackets.
+▻ Consequently, not all browsers display tags in the exact same way.
+-The first entity inside a tag is the tag’s type. 
+➨There are two types of elements—container elements and void elements. 
+1 . A container element (usually called simply a “container”) has a start tag and an end tag, and it contains content between its two tags .
+2 . A void element has just one tag, and its content is stored within the tag.
+✔ 1.5 Structural Elements 
+- Executable code is generated from the source code with the help of something called a compiler. 
+- HTML code is source code because HTML code comes directly from the programming source—the programmer.
+ ➨ The doctype construct is considered to be an instruction, not an element, and it goes at the top of every web page , tells the browser what type of document the web page is.  
+➨ The html, head, and body elements form the basic structure of a web page, so we’ll refer to those elements as structural elements. 
+ ✔ 1.6 title Element 
+- The head element contains two types of elements—meta and title.
+- title element goes within the head container. The title element’s contained data (e.g., “K.C. Weather”) specifies the label that appears in the browser window’s title bar. 
+✔ The purpose of the title element
+❖ It provides documentation for someone trying to maintain your web page, and 
+❖ It helps web search engines find your web page 
+
