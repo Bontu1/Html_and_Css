@@ -1,0 +1,21 @@
+2.1 Introduction
+ Character references allow you to generate characters that are not on a standard keyboard.
+
+2.2 HTML Coding Conventions
+
+For every container element, include both a start tag and an end tag. So even though it’s 
+legal to omit a p element’s end tag, don’t do it.
+▸ Use lowercase for all tag names and attributes.
+▸ Use lowercase for attribute values unless there’s a reason for uppercase. For a meta 
+author element, use title case for the author’s name because that’s how people’s names are 
+normally spelled.
+▸ For attribute-value assignments, surround the value with quotes, and omit spaces around 
+the equals sign
+2.3 Comments
+   Are words that humans read but the computer skips.
+   The browser engin is the software inside a web browser that reads a web page's content on the
+screen and formatting information and then displays the formatted contenton the screen.
+
+
+
+

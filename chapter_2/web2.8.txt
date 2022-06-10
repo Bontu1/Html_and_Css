@@ -1,0 +1,7 @@
+                   2.7 blockquote Element
+- it is a block element, so it spans the width of its container.                   
+- use a blockquote element when you have a quotation that is 
+too long to embed within surrounding text. 
+        Typical Default Display Properties
+
+

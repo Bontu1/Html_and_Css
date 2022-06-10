@@ -1,0 +1,38 @@
+Designing the Pie Detail Page
+
+Understanding Inline and Block Elements
+
+                
+1.Inline elements - don't start new line they display current line. 
+                  - comtains text or other inline elements. such as <b> , a,<img>
+                 
+2.Block elements - they start in a new line.
+                 - Take up all available width.like <h1>,<p>,<div>
+ 
+              Working with the Different Inline Elements
+* Inline elements gives special meaning to the text.
+                such as Emphasize , qutoe , code,...
+
+~ <em> is used to emphasize a certain text.
+~ <mark> is used to mark text to highlight imports.
+~ <q> is used to difne a short quotation.
+~ <s> is used to point to text that is not correct in a document.
+~ <small> is used to add extra content or small character.
+~ <strong> is used put an emphasize on a certain pice of content.
+~ <span> is an inline element and it does't have a semmantic meaning.
+       -is used to apply color or style.
+       -it is a generic element.
+ 
+                Creating a Lists
+List elements are commonly used to show different types of list-based contents.
+ol(orderd list) - used to create a numbered list.
+ul(unorderd list) - used to create a bulated list.
+li(list item) - used to add items in a list.
+
+Including special Characters
+Including special Characters requires using a character entity reference.
+example: &gt; is used to create a greaterthan sign
+         &copy; is used to show the copy right symbol.
+
+
+

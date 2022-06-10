@@ -1,0 +1,9 @@
+Understanding the HTML table
+# Table the of the table is dispaying the tabular data.
+# Table contain Rows and Columns cells.
+# To create rows use the element <tr> which is table row and for columns use<td> which is table data.
+# We can include in the cell everything what we need to add like p,image,link etc.
+# Tables are used for only displaying data not for page layout.
+# Settng the border can help when you have issues creating your tbale.
+# can be created using the element <table>.
+# Table is a collectin of row each row contain a number of columns.

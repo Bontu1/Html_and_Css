@@ -1,0 +1,28 @@
+2.4 HTML Elements Should Describe Web Page 
+            Content Accurately
+- An overarching goal in web programming is to use appropriate HTML
+elements so your web page's content is described accurately.
+- The benefit of describing web page content accuratly and fully is 
+that it enables you (the programmer) to manipulate the web
+page more effectively using CSS and JavaScript.
+          2.5 Content Model Categories
+- The metadata category is that it includes all elements that are 
+allowed in the head container.
+- The metadata category includes elements that provide information associa
+ted with the web page as a whole.
+The flow Category includes plain text and all the elements that are allowed in a web page body
+contaier.
+- The blockquote , div , hr , p and pre elements are flow content elements, they are not in any other 
+content model categories.
+- The sup element is for superscripting.
+The embedded category includes elements that refer to a resource that's separate form
+the current web page.
+- The interactive category includes elements that are intended for user interaction.
+- The heading category includes elements that define a header for a group of related content.
+- The sectioning category includes elements that define a group of related content.
+                     2.6 Block Elements 
+- In a given container there will be only one block element for each row in the container.
+- A block element corresponds to an element in the flow category that is not also an element in the phrasing category.
+
+
+
